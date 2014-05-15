@@ -1,0 +1,47 @@
+body {
+  background-color: #BADFCD;
+  padding-top: 0px;
+  margin: 0;
+}
+
+.top {
+  background-color: #fff;
+  height: 46px;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.tweetsList {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  text-align: center;
+  color: gray;
+}
+
+.tweeter  {
+  color: -webkit-link;
+  text-decoration: underline;
+  cursor: pointer;
+  font-style: normal;
+}
+
+.tweetedAt {
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+#bird {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+}
+
+.header {
+  text-align: center;
+  font-size: 60px;
+  font-family: sans-serif;
+  margin-bottom: 0px;
+}
